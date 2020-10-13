@@ -1,3 +1,5 @@
 Hello world from smartgit
 
 These are the modifications
+
+new changes
